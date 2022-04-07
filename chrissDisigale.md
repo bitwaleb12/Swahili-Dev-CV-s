@@ -34,8 +34,13 @@ Awards
 
 Projects
 --------
--**Food Ordering System:** Angular and Springboot.
--**Chatbot:** "tailwindcss and Flask(AI) [www.sarufi.io].
--**Mchango:** "tailwindcss and Flask(AI).
--**Ecommerce:** Vue and Laravel.
--**Inventory:** Vue and Laravel.
+-**Food Ordering System:** 
+Angular and Springboot.
+-**Chatbot:** 
+tailwindcss and Flask(AI) [www.sarufi.io].
+-**Mchango:** 
+tailwindcss and Flask(AI).
+-**Ecommerce:** 
+Vue and Laravel.
+-**Inventory:** 
+Vue and Laravel.
