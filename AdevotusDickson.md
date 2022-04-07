@@ -23,7 +23,6 @@ Adevotus Dickson
 2.Internship program BUNI HUB.
  -Project: FOOD ORDERING WEB APP.
  -Technology: "Laravel".
- 
 3. Practical Training eGA.
  -Project:DRONE ASSEMBLE.
  -Technology:"Python","Open CV","IOT"
@@ -48,5 +47,5 @@ Adevotus Dickson
 ****Other Projects and hobs****
 ----------------------
 - Madabapharmacy system for medicine sells recording  and report generating 
-- 
+
 
