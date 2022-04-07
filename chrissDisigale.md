@@ -1,18 +1,19 @@
 Chriss Disigale
 ======
 
-#### Bachelor of science In Computer Engineering. 
+#### Passionate help my country advance in technology through programming. 
+
 ###### [ [https://linktr.ee/smartCoder ] . [ www.github.com/ChrissDisigale ] . [ 802 461 3429 ]
 
 
 Education
 ---------
-**Bachelor of science In Computer Engineering (awarded 2021).
+**Bachelor of science In Computer Engineering (awarded 2021).**
 
 - FYP:Automatic GreenHouse Monitoring and Control System. 
 - Awarded GRADE "A".
 
-**Graduate from online course university
+**Graduate from online course university**
 -i spend thousands of hours watching tutorials, reading books and blogs and building projects. And through alot of practises, my experience in programming have 
 being advancing daily.
 
@@ -33,8 +34,8 @@ Awards
 
 Projects
 --------
-**Food Ordering System**: Angular and Springboot
-**Chatbot**: "tailwindcss and Flask(AI) [www.sarufi.io]
-**Mchango**: "tailwindcss and Flask(AI)
-**Ecommerce**: Vue and Laravel
-**Inventory**: Vue and Laravel
+**Food Ordering System**: Angular and Springboot.
+**Chatbot**: "tailwindcss and Flask(AI) [www.sarufi.io].
+**Mchango**: "tailwindcss and Flask(AI).
+**Ecommerce**: Vue and Laravel.
+**Inventory**: Vue and Laravel.
