@@ -46,3 +46,7 @@ Projects
 **Changisha:**
 -Front-end: angular.
 -Backend: springboot
+
+**Inventory:**
+-Front-end: Vue.
+-Backend: Laravel
