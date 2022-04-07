@@ -23,11 +23,12 @@ Adevotus Dickson
 2.Internship program BUNI HUB.
  -Project: FOOD ORDERING WEB APP.
  -Technology: "Laravel".
+ 
  3. Practical Training eGA.
  -Project:DRONE ASSEMBLE.
  -Technology:"Python","Open CV","IOT"
  
-4. Software Developer Intern ECOWATER.
+ 4. Software Developer Intern ECOWATER.
  -current.
 
 
